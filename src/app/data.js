@@ -1,9 +1,9 @@
 export const projectsData = [
     {
         id: 1,
-        name: "",
-        description: "",
-        date: "2022-02-14",
+        name: "Full Stack Admin Dashboard",
+        description: "Welcome to my new project. I am working on a fully functional and customable CMS with admin panel from witch you can create your own store without any knowledge and programming skills!",
+        date: "2024-03-30",
         demoLink: "",
     },
     {
