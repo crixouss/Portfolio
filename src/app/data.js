@@ -15,7 +15,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        name: "",
+        name: "That would be my Portfolio",
         description: "",
         date: "2022-02-14",
         demoLink: "",
