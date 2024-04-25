@@ -1,0 +1,103 @@
+export const projectsData = [
+    {
+        id: 1,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+    {
+        id: 2,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+    {
+        id: 3,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+    {
+        id: 4,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+    {
+        id: 5,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+    {
+        id: 6,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+    {
+        id: 7,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+    {
+        id: 8,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+    {
+        id: 9,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+    {
+        id: 10,
+        name: "",
+        description: "",
+        date: "2022-02-14",
+        demoLink: "",
+    },
+];
+
+export const BtnList = [
+    { label: "Home", link: "/", icon: "home", newTab: false },
+    { label: "About", link: "/about", icon: "about", newTab: false },
+    { label: "Projects", link: "/projects", icon: "projects", newTab: false },
+    { label: "Contact", link: "/contact", icon: "contact", newTab: false },
+    {
+        label: "Github",
+        link: "",
+        icon: "github",
+        newTab: true,
+    },
+    {
+        label: "LinkedIn",
+        link: "",
+        icon: "linkedin",
+        newTab: true,
+    },
+    {
+        label: "X",
+        link: "",
+        icon: "twitter",
+        newTab: true,
+    },
+    {
+        label: "Resume",
+        link: "/resume.pdf",
+        icon: "resume",
+        newTab: true,
+    },
+];
