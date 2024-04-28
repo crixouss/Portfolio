@@ -19,7 +19,7 @@ export default function Ogre(props) {
     const modelRef = useRef()
 
     useFrame((state,delta,xrFrama ) => {
-        modelRef.current.position.y = -2.3 + Math.sin(state.clock.elapsedTime)*0.2
+        modelRef.current.position.y = -2.3 + Math.sin(state.clock.elapsedTime)*0.15
     })
 
     return (
