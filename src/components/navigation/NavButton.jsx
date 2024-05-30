@@ -59,7 +59,7 @@ const NavButton = ({
             {({ size }) => {
                 return size && size >= 480 ? (
                     <div
-                        className="absolute cursor-pointer z-10"
+                        className="absolute cursor-pointer z-50"
                         style={{ transform: `translate(${x}, ${y})` }}
                     >
                         <NavLink
